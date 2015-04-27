@@ -313,12 +313,12 @@
 			}
 
 			.icon.circle.fa-twitter {
-				background: #70aecd;
+				background: #55acee;
 				color: white;
 			}
 
 				.icon.circle.fa-twitter:hover {
-					background: #7fb7d2;
+					background: #66bcf9;
 				}
 
 			.icon.circle.fa-linkedin {
@@ -346,6 +346,15 @@
 
 				.icon.circle.fa-envelope:hover {
 					background: #df7b77;
+				}
+			
+			.icon.circle.fa-key {
+				background: #c87012;
+				color: white;
+			}
+
+				.icon.circle.fa-key:hover {
+					background: #db8c22;
 				}
 
 		.icon.featured {
