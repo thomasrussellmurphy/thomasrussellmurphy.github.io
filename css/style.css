@@ -595,9 +595,16 @@
 				}
 
 		.wrapper.style3 {
-			background: white;
-			color: inherit;
+			background-color: #646693;
+			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
+			background-position: bottom left, bottom right;
+			background-repeat: no-repeat, no-repeat;
+			background-size: 25em, 25em;
+			color: white;
 		}
+			.wrapper.style3 a {
+				color: white;
+			}
 
 		.wrapper.style4 {
 			background: white;
